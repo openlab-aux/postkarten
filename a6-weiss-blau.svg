@@ -14,7 +14,7 @@
    id="svg3710"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="a6-weiss-gruen.svg">
+   sodipodi:docname="a6-weiss-blau.svg">
   <defs
      id="defs3712" />
   <sodipodi:namedview
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,6 +55,13 @@
     <g
        id="g3773"
        transform="translate(0,12.338772)">
+      <rect
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3008"
+         width="524.40942"
+         height="372.04724"
+         x="0"
+         y="667.97614" />
       <g
          id="g3854">
         <path

@@ -14,7 +14,7 @@
    id="svg5397"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="rueckseite.svg">
+   sodipodi:docname="rueckseite_unpathed.svg">
   <defs
      id="defs5399" />
   <sodipodi:namedview
@@ -52,6 +52,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-680.31491)">
+    <rect
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect7041"
+       width="524.40942"
+       height="372.04724"
+       x="0"
+       y="680.31494" />
     <g
        id="g4262"
        transform="translate(33.453938,0)">
@@ -1128,7 +1135,7 @@
            x="-529.87219"
            y="43.281651"
            style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-         id="flowPara3608"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3608" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3610"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -1138,7 +1145,7 @@
            height="154.76465"
            x="-505.38965"
            y="26.668497" /></flowRegion><flowPara
-         id="flowPara3616"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3616" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3618"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1150,7 +1157,7 @@
            x="-515.8822"
            y="44.156029" /></flowRegion><flowPara
          id="flowPara3624"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Für das Jahr 2013 haben wir uns vorgenommen, einen Raum für die Umsetzung von Ideen und das Weitergeben von Wissen zu schaffen und dadurch den Austausch zwischen den verschiedenen Technik- und Bastler-Gruppen zu fördern. Das OpenLab soll jedoch auch durch Workshops und Kurse Interessierten einen leichteren Zugang zu zukunftsweisenden Themen wie digitale Fabrikation, eingebettete Systeme usw. ermöglichen. </flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Wir haben seit Anfang 2013 einen Raum für die Umsetzung von Ideen und das Weitergeben von Wissen geschaffen und fördern dadurch den Austausch zwischen den verschiedenen Technik- und Bastler-Gruppen. Das OpenLab soll jedoch auch durch Workshops und Kurse Interessierten einen leichteren Zugang zu zukunftsweisenden Themen wie digitale Fabrikation, eingebettete Systeme usw. ermöglichen. </flowPara><flowPara
          style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          id="flowPara4241"> </flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
@@ -1166,11 +1173,17 @@
            width="511.51031"
            id="rect4249" /></flowRegion><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         id="flowPara4474">Wenn Du dich für eines dieser Themen interessierst oder Du diesen Raum mitgestalten willst, stehen dir alle Möglichkeiten offen! Im Blog und auf dem Wiki findest du mehr Informationen, wenn Du auf dem Laufenden bleiben willst, kannst Du auch unsere Mailingliste abonnieren.</flowPara></flowRoot>    <flowRoot
+         id="flowPara4474">Wenn Du dich für eines dieser Themen interessierst oder Du diesen Raum mitgestalten willst, stehen dir alle Möglichkeiten offen! Auf <flowSpan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="flowSpan5459">www.openlab-augsburg.de</flowSpan> findest du mehr Informationen. Wenn Du auf dem Laufenden bleiben willst, kannst Du auch unsere Mailingliste abonnieren.</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:50%;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="flowPara3221"> </flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         id="flowPara3219">Oder du besuchst uns einfach in der Elisenstraße 1!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4486"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.7541949,0,0,1.7541949,1168.6582,948.37295)"><flowRegion
+       transform="matrix(1.353439,0,0,1.353439,1020.6125,973.21606)"><flowRegion
          id="flowRegion4488"><rect
            id="rect4490"
            width="231.06415"
@@ -1178,5 +1191,5 @@
            x="-599.87085"
            y="42.162231" /></flowRegion><flowPara
          id="flowPara4492"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Alles unter: www.openlab-augsburg.de</flowPara></flowRoot>  </g>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRoot>  </g>
 </svg>
